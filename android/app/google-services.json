@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "971314115794",
+    "project_id": "logbook-fav",
+    "storage_bucket": "logbook-fav.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971314115794:android:b42025cb663dcd188ce90b",
+        "android_client_info": {
+          "package_name": "com.example.logbook_fav"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkj6T4pCoFmP4cETjScJUVUMfQKBTfNqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
